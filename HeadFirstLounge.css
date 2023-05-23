@@ -1,0 +1,86 @@
+h1, h2, h3 {
+    color: #007e7e;
+    text-align:left;
+}
+h1 {
+   
+    font-size: 150%;
+}
+h2{
+    font-size: 130%;
+}
+p {
+    color: ;
+    
+}
+body {
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-size: small;
+    text-align: left;
+    line-height: 1.6em;
+}
+.aside{
+    border: 5px dashed #007e7e;
+    font-size: small;
+    width: 20%;
+    text-align: center;
+    float: right;
+    padding-left: 0%;
+    padding-right: 0%;
+    line-height: 1 em;
+    border-width: thin;
+    
+}
+.aside h2 h3{
+    text-align: center;
+}
+.pic{
+    width: 70%;
+    height:25%;
+}
+}
+p.aside{
+    font-family:;
+    font-size:;
+    text-align: center;
+    
+    
+}
+.aside p{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.article{
+    background-color: #abc6ce;
+    margin-right: 21%;
+    text-align: justify;
+    padding: 25px;
+    padding-left: 50px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    border: 5px dashed;
+    border-color: white;
+    width: ;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#h2Aside{
+    color: black;
+    text-align: center;
+}
+#h3Aside{
+    color: red;
+    text-align: center;
+}
+#aside img{
+    height: 50px;
+    width:50px;
+}
+a:link{
+    color: green;
+}
+a:hover{
+    color: yellow;
+}
+a:visited{
+    color:red;
+}
